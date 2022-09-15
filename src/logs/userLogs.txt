@@ -1,0 +1,21 @@
+
+el usuario ingreso a la ruta: /
+el usuario ingreso a la ruta: /
+el usuario ingreso a la ruta: /contact
+el usuario ingreso a la ruta: /about
+el usuario ingreso a la ruta: /services
+el usuario ingreso a la ruta: /services
+el usuario ingreso a la ruta: /login
+el usuario ingreso a la ruta: /admin?user=sirley
+el usuario ingreso a la ruta: /admin?user=sirley
+el usuario ingreso a la ruta: /admin?user=sirley
+el usuario ingreso a la ruta: /login
+el usuario ingreso a la ruta: /admin?user=sirley
+el usuario ingreso a la ruta: /login
+el usuario ingreso a la ruta: /admin?user=Ada
+el usuario ingreso a la ruta: /login
+el usuario ingreso a la ruta: /admin?user=tim
+el usuario ingreso a la ruta: /login
+el usuario ingreso a la ruta: /admin?user=sirley
+el usuario ingreso a la ruta: /login?error=true
+el usuario ingreso a la ruta: /admin?user=Ada
